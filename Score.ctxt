@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Score
+comment1.params=
+comment1.target=Score()
+comment2.params=
+comment2.target=int\ getRoundScore()
+comment3.params=
+comment3.target=int\ getGameScore()
+comment4.params=input
+comment4.target=void\ setRoundScore(int)
+comment5.params=input
+comment5.target=void\ setGameScore(int)
+comment6.params=
+comment6.target=void\ adjustGameScore()
+comment7.params=input
+comment7.target=void\ adjustRoundScore(int)
+numComments=8

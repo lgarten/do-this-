@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Dice
+comment1.params=
+comment1.target=Dice()
+comment2.params=
+comment2.target=void\ rollDice()
+comment3.params=
+comment3.target=int\ getD1()
+comment4.params=
+comment4.target=int\ getD2()
+comment5.params=
+comment5.target=int\ rollValue()
+comment6.params=
+comment6.target=boolean\ checkDouble()
+comment7.params=
+comment7.target=boolean\ checkOnes()
+numComments=8
